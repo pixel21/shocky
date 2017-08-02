@@ -1,0 +1,480 @@
+.link-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+  color: #0f0e0e;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.link-block-2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.column {
+  font-family: 'Droid Serif', serif;
+  text-align: center;
+}
+
+.text-block-2 {
+  padding-top: 23px;
+  font-family: Ubuntu, Helvetica, sans-serif;
+  color: #0a0909;
+  font-size: 25px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.image {
+  display: block;
+  margin-top: -8px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.column-2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: auto;
+  padding-left: auto;
+}
+
+.navlink {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-decoration: none;
+}
+
+.text-block-3 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 33px;
+  color: #000;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.column-3 {
+  padding-top: 20px;
+}
+
+.column-4 {
+  padding-top: 20px;
+}
+
+.navbar-2 {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  background-color: transparent;
+  background-image: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, .25), hsla(0, 0%, 100%, .25));
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .25), hsla(0, 0%, 100%, .25));
+}
+
+.slide {
+  margin-top: 0px;
+  background-image: url('../images/StockSnap_PEY6RQI3XP-size-50-perc.jpg');
+  background-position: 0px 0px;
+  background-size: 1446px;
+}
+
+.slider {
+  height: 900px;
+  margin-top: -2px;
+}
+
+.container {
+  background-color: transparent;
+}
+
+.section {
+  margin-top: -150px;
+  padding-top: 0px;
+}
+
+.row {
+  background-color: transparent;
+}
+
+.herosection {
+  display: block;
+  margin-top: -132px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.slider-2 {
+  display: block;
+  margin-top: 17px;
+  padding-top: 0px;
+  background-image: -webkit-radial-gradient(circle farthest-corner at 50% 50%, #c4fffa, #6284a3);
+  background-image: radial-gradient(circle farthest-corner at 50% 50%, #c4fffa, #6284a3);
+}
+
+.section-2 {
+  height: 900px;
+}
+
+.slider-3 {
+  height: 900px;
+}
+
+.slide-2 {
+  background-image: url('../images/StockSnap_PEY6RQI3XP-size-50-perc.jpg');
+  background-position: 0px 0px;
+  background-size: 1446px;
+}
+
+.slide-3 {
+  background-image: url('../images/StockSnap_6BVRSTEE0K.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.text-block-4 {
+  margin-top: 14px;
+  padding-top: 1px;
+  color: #fff;
+  text-align: left;
+}
+
+.footer {
+  height: 50px;
+  background-color: #070f14;
+}
+
+.twitter {
+  position: absolute;
+}
+
+.facebook {
+  position: static;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0px;
+  float: right;
+}
+
+.column-5 {
+  padding-top: 15px;
+}
+
+.link {
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.text-span {
+  color: #d6c8c8;
+}
+
+.profileboxtext {
+  position: absolute;
+  left: 100px;
+  top: 0px;
+  right: 100px;
+  bottom: 0px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 102px;
+  padding-bottom: 0px;
+  font-family: Ubuntu, Helvetica, sans-serif;
+  color: #fff;
+  font-size: 45px;
+  line-height: 35px;
+  text-align: center;
+}
+
+.text-span-2 {
+  font-size: 25px;
+}
+
+.profileboxrow {
+  margin-top: 17px;
+}
+
+.profileboxheading {
+  position: absolute;
+  left: 0px;
+  top: 83px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  color: #fff;
+  text-align: center;
+}
+
+.profileboxsubheading {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 44px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+}
+
+.column-6 {
+  height: 500px;
+  background-image: url('../images/StockSnap_1DW4315IAF-size-50-perc.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block-quote {
+  display: block;
+  height: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 92px;
+  padding-left: 24px;
+  border-left-style: none;
+  font-size: 35px;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+.image-2 {
+  padding-top: 0px;
+}
+
+.heading {
+  margin-top: 7px;
+}
+
+.text-block-5 {
+  padding-top: 16px;
+  padding-bottom: 28px;
+  font-family: Ubuntu, Helvetica, sans-serif;
+}
+
+.section-3 {
+  background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .23), rgba(0, 0, 0, .23)), url('../images/StockSnap_SBF5I57H4V.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .23), rgba(0, 0, 0, .23)), url('../images/StockSnap_SBF5I57H4V.jpg');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, 2184px;
+  background-repeat: repeat, no-repeat;
+}
+
+.heading-2 {
+  font-family: Ubuntu, Helvetica, sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+.text-block-6 {
+  font-family: Ubuntu, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.form-block {
+  padding-top: 52px;
+}
+
+.field-label {
+  font-family: Ubuntu, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.field-label-2 {
+  color: #fff;
+}
+
+.heading-3 {
+  color: #fff;
+  text-align: right;
+}
+
+.image-3 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (max-width: 991px) {
+  .text-block-3 {
+    display: none;
+    overflow: visible;
+  }
+  .navbar-2 {
+    background-image: -webkit-linear-gradient(270deg, #fff, #fff);
+    background-image: linear-gradient(180deg, #fff, #fff);
+  }
+  .herosection {
+    margin-top: 0px;
+  }
+  .profileboxtext {
+    left: 48px;
+    top: 0px;
+    right: 48px;
+    bottom: 0px;
+    padding-top: 63px;
+  }
+  .profileboxcolumn {
+    margin-bottom: 10px;
+  }
+  .profileboxrow {
+    margin-top: 2px;
+  }
+  .profileboxheading {
+    left: 0px;
+    top: 83px;
+    right: 0px;
+    bottom: 0px;
+    margin-top: -24px;
+  }
+  .profileboxsubheading {
+    left: 0px;
+    top: 110px;
+    right: 0px;
+    bottom: 44px;
+    display: inline;
+  }
+  .menu-button {
+    position: relative;
+    display: block;
+    width: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .icon {
+    position: static;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .block-quote {
+    font-size: 28px;
+  }
+  .menu-button-2 {
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 19px;
+    padding-right: 200px;
+    padding-left: 349px;
+    float: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .image {
+    margin-left: 191px;
+  }
+  .text-block-4 {
+    text-align: center;
+  }
+  .footer {
+    height: auto;
+  }
+  .profileboxtext {
+    left: 48px;
+    top: 0px;
+    right: 48px;
+    bottom: 0px;
+    padding-top: 202px;
+  }
+  .profileboxheading {
+    top: 217px;
+  }
+  .profileboxsubheading {
+    top: 267px;
+    bottom: 0px;
+  }
+  .block-quote {
+    height: 250px;
+    padding-top: 44px;
+  }
+  .menu-button-2 {
+    padding-left: 277px;
+  }
+}
+
+@media (max-width: 479px) {
+  .image {
+    margin-left: 66px;
+  }
+  .slide-2 {
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .text-block-4 {
+    margin-top: 3px;
+    text-align: center;
+  }
+  .footer {
+    height: auto;
+  }
+  .twitter {
+    position: absolute;
+    display: block;
+    padding-left: 62px;
+  }
+  .facebook {
+    position: relative;
+    display: block;
+    margin-top: 30px;
+    padding-top: 1px;
+    padding-left: 92px;
+    float: none;
+  }
+  .profileboxtext {
+    left: 48px;
+    top: 0px;
+    right: 48px;
+    bottom: 0px;
+    padding-top: 86px;
+  }
+  .profileboxcolumn {
+    margin-top: 7px;
+    margin-bottom: 11px;
+  }
+  .profileboxheading {
+    top: 111px;
+  }
+  .profileboxsubheading {
+    top: 141px;
+  }
+  .block-quote {
+    padding-top: 26px;
+    font-size: 19px;
+  }
+  .menu-button-2 {
+    padding-right: 177px;
+    padding-left: 148px;
+  }
+}
